@@ -1,0 +1,13 @@
+# Never commit real, filled-in versions of the memory doc or control sheet
+*.key
+*.log
+*private*
+*real*
+.clasp.json
+.clasprc.json
+.env
+AgentControl.xls
+AgentControl.xlsx
+AgentMemory.doc
+AgentMemory.docx
+node_modules/
